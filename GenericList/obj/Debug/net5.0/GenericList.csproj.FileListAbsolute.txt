@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\GenericList\GenericList\bin\Debug\net5.0\GenericList.exe
+C:\Users\ozlem\source\repos\GenericList\GenericList\bin\Debug\net5.0\GenericList.deps.json
+C:\Users\ozlem\source\repos\GenericList\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+C:\Users\ozlem\source\repos\GenericList\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\GenericList\GenericList\bin\Debug\net5.0\GenericList.dll
+C:\Users\ozlem\source\repos\GenericList\GenericList\bin\Debug\net5.0\ref\GenericList.dll
+C:\Users\ozlem\source\repos\GenericList\GenericList\bin\Debug\net5.0\GenericList.pdb
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.dll
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\ref\GenericList.dll
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.pdb
+C:\Users\ozlem\source\repos\GenericList\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
